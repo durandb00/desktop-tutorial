@@ -1,1 +1,1 @@
-This repository has been created for the Microsoft Fabric NYC Yellow Taxi end to end data project.
+Ce répository concerne le projet E-commerce sur Microsoft Fabric
